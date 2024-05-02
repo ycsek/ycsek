@@ -3,7 +3,6 @@
 - I am a stuednt at Faculty of Data Science, City University of Macau.    
 - I major in Computer Science.
 - My preliminary programming languages are C and C++.
-- I also learned html css.
 <!---
 ycsek/ycsek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
