@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yuchen Shi you can also call me Jason
-- 📫 How to reach me ——yuchenshi327@outlook.com 
+- 📫 How to reach me ——yuchenshi327@gmail.com
 - I am a stuednt at Faculty of Data Science, City University of Macau.    
 - I major in Computer Science.
 - My preliminary programming languages are C and C++.
