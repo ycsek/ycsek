@@ -5,7 +5,7 @@
 - I major in Computer Science
 - My preliminary programming language is Python
 - I am skilled in C/C++
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycsek)](https://github.com/anuraghazra/github-readme-stats)
+- 
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycsek&show_icons=true&theme=ambient_gradient)
 
 <!--
