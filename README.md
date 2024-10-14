@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 👋 I’m Jason
 - 📫 How to reach me ——yuchenshi327@outlook.com
-- I am a stuednt at Faculty of Data Science, City University of Macau 
+- A stuednt at Faculty of Data Science, City University of Macau 
 - I major in Computer Science
 - My preliminary programming language is Python
 - I am skilled in C/C++
