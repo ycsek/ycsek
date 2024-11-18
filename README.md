@@ -1,10 +1,12 @@
+# About me
 ## Hi there 👋
-- 👋 I’m Jason
-- 📫 How to reach me ——yuchenshi327@outlook.com
-- A stuednt at Faculty of Data Science, City University of Macau 
-- I major in Computer Science
-- My preliminary programming language is Python
-- I am skilled in C/C++
+- 👋 I’m Jason 
+- 📫 How to reach me ——Jasonycshi@outlook.com
+- An undergraduate student
+- I belong to the Faculty of Data Science (FDS), City University of Macau
+- I'm majoring in Computer Science
+- Supervised by Prof. Huajie Chen
+
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycsek&show_icons=true&theme=ambient_gradient)
 
