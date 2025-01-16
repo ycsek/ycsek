@@ -3,7 +3,7 @@
 - 👋 I’m Jason 
 - 📫 How to reach me ——Jasonycshi@outlook.com
 - An undergraduate student
-- I belong to the Faculty of Data Science (FDS), City University of Macau
+- I'm affiliated with the Faculty of Data Science, City University of Macau
 - I'm majoring in Computer Science
 - Supervised by Prof. Huajie Chen
 
