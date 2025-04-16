@@ -5,7 +5,7 @@
 - An undergraduate student
 - I'm affiliated with the Faculty of Data Science, City University of Macau
 - I'm majoring in Computer Science
-- Supervised by Prof. Huajie Chen
+
 
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycsek&show_icons=true&theme=ambient_gradient)
