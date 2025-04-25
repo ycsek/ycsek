@@ -1,13 +1,9 @@
-
 ## Hi there 👋
-- 👋 I’m Jason 
-- 📫 How to reach me ——Jasonycshi@outlook.com
-- An undergraduate student
-- I'm affiliated with the Faculty of Data Science, City University of Macau
-- I'm majoring in Computer Science
+- 👋 I’m Jason (Yuchen) Shi (Chinese: 石雨宸; Cantonese: Jyusan Sek)
+-  I am an undergraduate student at the Faculty of Data Science, City University of Macau, majoring in Computer Science.
 
 
- 
+
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycsek&show_icons=true&theme=ambient_gradient)
 
 <!--
