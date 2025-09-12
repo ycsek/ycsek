@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 👋 I’m Jason (Yuchen) Shi (Chinese: 石雨宸; Cantonese: Jyusan Sek)
+- 👋 I’m Jason (Yuchen) Shi
 -  I am an undergraduate student at the Faculty of Data Science, City University of Macau, majoring in Computer Science.
 
 
